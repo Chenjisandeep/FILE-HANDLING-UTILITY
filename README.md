@@ -47,3 +47,7 @@ Can later read or modify that content interactively through the console.
 
 Error Handling:
 Catches and displays I/O exceptions for robust file handling.
+
+*OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/00603cb1-a8b2-4bb1-b2cb-954f2f00b508)
