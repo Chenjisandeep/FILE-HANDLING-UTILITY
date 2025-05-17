@@ -82,6 +82,12 @@ Feel free to contribute by forking the repository and adding more file handling 
 
 This project is distributed under the MIT License. See the LICENSE file for more information.
 
+OUTPUT:
 
+FILE HANDLING UTILITY:
 
 ![Image](https://github.com/user-attachments/assets/00603cb1-a8b2-4bb1-b2cb-954f2f00b508)
+
+FILE OPERATIONS DEMO:
+
+
