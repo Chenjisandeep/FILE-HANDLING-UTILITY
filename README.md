@@ -90,4 +90,4 @@ FILE HANDLING UTILITY:
 
 FILE OPERATIONS DEMO:
 
-
+![Image](https://github.com/user-attachments/assets/2e59b469-fb68-4a2b-80f1-c1a48bf3818e)
