@@ -78,9 +78,6 @@ This repository contains a collection of Java programs that demonstrate essentia
 
 Feel free to contribute by forking the repository and adding more file handling methods or improving the existing code. Contributions are always welcome!
 
-#### License
-
-This project is distributed under the MIT License. See the LICENSE file for more information.
 
 OUTPUT:
 
