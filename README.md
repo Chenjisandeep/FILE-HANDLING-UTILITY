@@ -13,41 +13,84 @@
 
 *DESCRIPTION:
 
-The FileHandlingUtility class is a simple command-line application that allows users to perform basic file operations: write, read, and modify text files. It uses Java's BufferedReader, BufferedWriter, and Scanner classes to manage user input and file I/O.
+Java File Handling Example Programs
 
-Main Features:
-1. Write to a File (writeToFile)
-Appends the given content to the specified file.
-Creates the file if it does not exist.
-Uses BufferedWriter in append mode.
+This repository contains a collection of Java programs that demonstrate essential file handling techniques. The primary aim of these programs is to help developers understand how to perform fundamental file operations efficiently while maintaining clear and well-structured code.
 
-2. Read from a File (readFromFile)
-Reads and displays the file contents line by line.
-Uses BufferedReader.
+Features
 
-3. Modify File Content (modifyFile)
-Replaces all occurrences of a given string with a new string in the file.
-Reads the entire file content into memory, performs replacement, then writes it back.
+File Handling Utility:
 
-4. User Interface (main method)
-Prompts the user to enter a file name.
+User-Friendly Interface: Allows users to choose operations from a simple menu.
 
-Provides a menu with 4 options:
-1. Write to file
-2. Read from file
-3. Modify file content
-4. Exit the program
+Write to File: Captures user input and saves it to a specified file.
 
-Handles user input using Scanner.
+Read from File: Displays the content of the file on the console.
 
-Usage Example:
-User enters a file name (e.g., notes.txt).
-Selects an operation like writing "Hello World" to the file.
-Can later read or modify that content interactively through the console.
+Modify File: Enables updating the existing content seamlessly.
 
-Error Handling:
-Catches and displays I/O exceptions for robust file handling.
+Exit: Closes the program gracefully.
 
-*OUTPUT:
+File Operations Demo:
+
+File Creation: Generates a file and writes initial content to it.
+
+Appending Data: Adds new lines without deleting the existing content.
+
+Reading Data: Retrieves and displays the file content after every modification.
+
+Deleting the File: Ensures cleanup after the demo completes.
+
+Real-Time Logging: Displays clear status messages during each step.
+
+Running the Programs
+
+Clone the repository:
+
+git clone https://github.com/username/java-file-handling.git
+cd java-file-handling
+
+Compile the Java files:
+
+javac FileHandlingUtility.java
+javac FileOperationsDemo.java
+
+Execute the programs:
+
+java FileHandlingUtility
+java FileOperationsDemo
+
+Example Output
+
+The utility program prompts the user to enter content and then displays the saved data upon reading.
+
+The demo program shows how new lines can be appended, followed by reading and displaying the updated content. Finally, it cleans up by deleting the file.
+
+Technologies and Concepts
+
+Java 17
+
+Command Line Operations
+
+File I/O (BufferedWriter, FileReader, BufferedReader)
+
+Error Handling for secure file manipulation
+
+Applications
+
+Simple Log Management: Maintain and view logs in a structured way.
+
+User Input Storage: Save user-generated text for future reference.
+
+Data Maintenance: Create, update, and delete data files efficiently.
+
+Contributions
+
+Feel free to contribute by forking the repository and adding more file handling methods or improving the existing code. Contributions are always welcome!
+
+License
+
+This project is distributed under the MIT License. See the LICENSE file for more information.
+
 
 ![Image](https://github.com/user-attachments/assets/00603cb1-a8b2-4bb1-b2cb-954f2f00b508)
