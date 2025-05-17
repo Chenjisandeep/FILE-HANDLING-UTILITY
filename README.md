@@ -14,13 +14,10 @@
 *DESCRIPTION:
 
 Java File Handling Example Programs
-
 This repository contains a collection of Java programs that demonstrate essential file handling techniques. The primary aim of these programs is to help developers understand how to perform fundamental file operations efficiently while maintaining clear and well-structured code.
 
 Features
-
 File Handling Utility:
-
 User-Friendly Interface: Allows users to choose operations from a simple menu.
 Write to File: Captures user input and saves it to a specified file.
 Read from File: Displays the content of the file on the console.
@@ -29,7 +26,6 @@ Exit: Closes the program gracefully.
 
 
 File Operations Demo:
-
 File Creation: Generates a file and writes initial content to it.
 Appending Data: Adds new lines without deleting the existing content.
 Reading Data: Retrieves and displays the file content after every modification.
