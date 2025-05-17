@@ -16,7 +16,7 @@
 Java File Handling Example Programs
 This repository contains a collection of Java programs that demonstrate essential file handling techniques. The primary aim of these programs is to help developers understand how to perform fundamental file operations efficiently while maintaining clear and well-structured code.
 
-Features
+FEATURES:
 
 
 File Handling Utility:
@@ -63,28 +63,23 @@ java FileHandlingUtility
 java FileOperationsDemo
 
 
-Example Output
+Example Output:
 
 The utility program prompts the user to enter content and then displays the saved data upon reading.
-
 The demo program shows how new lines can be appended, followed by reading and displaying the updated content. Finally, it cleans up by deleting the file.
 Technologies and Concepts
 
 Java 17
 
 Command Line Operations
-
 File I/O (BufferedWriter, FileReader, BufferedReader)
-
 Error Handling for secure file manipulation
 
 
 Applications
 
 Simple Log Management: Maintain and view logs in a structured way.
-
 User Input Storage: Save user-generated text for future reference.
-
 Data Maintenance: Create, update, and delete data files efficiently.
 
 
